@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center">♟️ Pygame Chess</h1> <p align="center">A 2-player chess game built using Python and Pygame</p> </p>
+<p align="center"> <h1 align="center">♟️ Pygame Chess/ Chess-OG</h1> <p align="center">A 2-player chess game built using Python and Pygame</p> </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Pygame-2.1.0-green?style=flat-square" /> <img src="https://img.shields.io/badge/Chess-Classic-black?style=flat-square" /> <img src="https://img.shields.io/badge/UI-Grid%20Board-brown?style=flat-square" /> <img src="https://img.shields.io/badge/GameMode-Two%20Player-lightgrey?style=flat-square" /> </p>
 🎮 Overview
